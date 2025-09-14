@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="encrypt/encrypt.vcxproj" Id="5a4e5b97-2455-4046-abe5-4f452835745c" />
+</Solution>

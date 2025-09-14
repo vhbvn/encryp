@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\calla\source\repos\encrypt\encrypt\example\main.cpp(5,2): warning C4244: '+=': conversion from 'double' to 'volatile float', possible loss of data
+C:\Users\calla\source\repos\encrypt\encrypt\example\main.cpp(5,2): warning C4244: '-=': conversion from 'double' to 'volatile float', possible loss of data
+  Generating code
+  8 of 23 functions (34.8%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  encrypt.vcxproj -> C:\Users\calla\source\repos\encrypt\x64\Release\encrypt.exe
